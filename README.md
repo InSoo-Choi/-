@@ -59,6 +59,6 @@
 
 
 ##### ERD
-* ###### 사용된 테이블표입니다.
+* ###### 데이터베이스에서 사용된 입니다.
 ![ERD](https://user-images.githubusercontent.com/49363880/103601697-8fe29780-4f4d-11eb-9305-a79b6d3b5059.jpg)
 

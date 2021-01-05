@@ -17,7 +17,7 @@
 ![예약취소후](https://user-images.githubusercontent.com/49363880/103598620-68d49780-4f46-11eb-9a9d-d5f8cdf76b34.jpg)
 
 #### 정보수정
-##### 정보수정전과 정부수정후의 화면입니다.
+##### 정보수정 전과 정부수정 후의 화면입니다.
 ![정보수정후](https://user-images.githubusercontent.com/49363880/103599465-89055600-4f48-11eb-9bf8-b4944f706407.JPG)
 
 

@@ -51,13 +51,14 @@
 ![메뉴관리2](https://user-images.githubusercontent.com/49363880/103595698-733f6300-4f3f-11eb-99db-15fe10563496.jpg)
 
 ##### 전체회원 조회
-###### 관리자가 가입된 전체회원을 검색할 수 있는 화면입니다.
+* ###### 관리자가 가입된 전체회원을 검색할 수 있는 화면입니다.
 ![관리자_회원관리](https://user-images.githubusercontent.com/49363880/103505900-c6ada480-4e9e-11eb-8328-3b6f71ff2b72.jpg)
 ##### 특정회원 조회
-###### 관리자가 가입된 전체회원중 특정회원을 검색할 수 있는 화면입니다.
+* ###### 관리자가 가입된 전체회원중 특정회원을 검색할 수 있는 화면입니다.
 ![관리자_회원관리2](https://user-images.githubusercontent.com/49363880/103505899-c6150e00-4e9e-11eb-9ebe-d4dac61ed312.jpg)
 
 
 ##### ERD
+* ###### 사용된 테이블표입니다.
 ![ERD](https://user-images.githubusercontent.com/49363880/103601697-8fe29780-4f4d-11eb-9305-a79b6d3b5059.jpg)
 
